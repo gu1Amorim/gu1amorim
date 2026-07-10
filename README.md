@@ -1,15 +1,35 @@
 # Olá, eu sou o Guilherme! 👋
+### Desenvolvedor .NET | C# · ASP.NET Core · Blazor · .NET MAUI
 
-### Especialista em Desenvolvimento de Software | Flutter & .NET Ecosystem
-
-Sou um desenvolvedor focado em construir soluções escaláveis e de alto desempenho. Com **4 anos de experiência**, transito entre o design de arquiteturas robustas no backend e a criação de interfaces fluidas no mobile.
+Desenvolvedor full-cycle no ecossistema .NET — do back-end à interface, do desktop ao mobile. Programo desde os 16 anos e atuo profissionalmente desde os 18. Gosto de entender o *porquê* das coisas: dos fundamentos de computação à arquitetura de sistemas.
 
 ---
 
-### 🚀 O que eu trago para o time:
+### 🛠️ Stack
 
-* **Liderança Técnica & Design de Sistemas:** Desenvolvi padrões de design personalizados que otimizaram a performance de apps e padronizaram o fluxo de desenvolvimento de equipes inteiras.
-* **Performance com Big Data:** Redesenhei lógicas de banco de dados para processar **+50.000 registros**, reduzindo drasticamente a latência e garantindo experiências instantâneas.
-* **Visão Full Cycle:** Experiência completa, do design inicial à arquitetura mobile e implementação final de aplicações web do zero.
+**Linguagens:** C, C#, TypeScript, JavaScript, SQL, Python
+**Back-end:** ASP.NET Core, APIs REST, Entity Framework, COM Interop
+**Web / Mobile:** Blazor, React, .NET MAUI, WinForms
+**Banco de dados:** PostgreSQL, SQLite
+**Ferramentas:** Git/GitHub, Visual Studio, Visual Studio Code, Docker, Bibliotecas de IA
 
-> *"Comunicação clara e ambiente colaborativo são a base para um código de alta qualidade."*
+---
+
+### 🚀 No que eu trabalho
+
+* **Desenvolvimento full-cycle no .NET** — atuo no web (Blazor), em APIs REST (ASP.NET Core), no desktop (WinForms) e no mobile (.NET MAUI).
+* **Projetos próprios** — sistema de controle de gastos residenciais (C#/PostgreSQL + React) e um app de gestão de frotas para caminhoneiros em .NET MAUI.
+
+---
+
+### 📌 Projetos em destaque
+
+* **finance-api** — API REST em C#/ASP.NET Core do meu sistema de finanças pessoais.
+* **frotas-maui** — app mobile em .NET MAUI para controle de frotas, fretes e rotas *(em desenvolvimento)*.
+* **aviacao-api** — API em C#/ASP.NET Core para consumo e interpretação de dados de aviação (aeródromos/METAR) *(em desenvolvimento)*.
+
+---
+
+### 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/g-amorim-dev) · www.amorim.tech@gmail.com
