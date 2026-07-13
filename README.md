@@ -7,17 +7,18 @@ Desenvolvedor full-cycle no ecossistema .NET — do back-end à interface, do de
 
 ### 🛠️ Stack
 
-**Linguagens:** C, C#, TypeScript, JavaScript, SQL, Python
+**Linguagens:** C#, TypeScript, JavaScript, SQL, Python
 **Back-end:** ASP.NET Core, APIs REST, Entity Framework, COM Interop
 **Web / Mobile:** Blazor, React, .NET MAUI, WinForms
 **Banco de dados:** PostgreSQL, SQLite
-**Ferramentas:** Git/GitHub, Visual Studio, Visual Studio Code, Docker, Bibliotecas de IA
+**Ferramentas:** Git/GitHub, Visual Studio, Visual Studio Code
 
 ---
 
 ### 🚀 No que eu trabalho
 
 * **Desenvolvimento full-cycle no .NET** — atuo no web (Blazor), em APIs REST (ASP.NET Core), no desktop (WinForms) e no mobile (.NET MAUI).
+* **Modernização de legado** — migração de rotinas de sistemas VB6 para C#, integrando código novo ao legado em produção via COM Interop.
 * **Projetos próprios** — sistema de controle de gastos residenciais (C#/PostgreSQL + React) e um app de gestão de frotas para caminhoneiros em .NET MAUI.
 
 ---
@@ -32,4 +33,5 @@ Desenvolvedor full-cycle no ecossistema .NET — do back-end à interface, do de
 
 ### 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/g-amorim-dev) · www.amorim.tech@gmail.com
+* *[LinkedIn](https://www.linkedin.com/in/gu1amorim)*
+* *[Email](g.amorim.dev@gmail.com)*
