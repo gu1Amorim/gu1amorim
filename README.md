@@ -26,7 +26,7 @@ Desenvolvedor full-cycle no ecossistema .NET — do back-end à interface, do de
 ### 📌 Projetos em destaque
 
 * **finance-api** — API REST em C#/ASP.NET Core do meu sistema de finanças pessoais.
-* **frotas-maui** — app mobile em .NET MAUI para controle de frotas, fretes e rotas *(em desenvolvimento)*.
+* **cargaBR-maui** — app mobile em .NET MAUI para controle de frotas, fretes e rotas *(em desenvolvimento)*.
 * **aviacao-api** — API em C#/ASP.NET Core para consumo e interpretação de dados de aviação (aeródromos/METAR) *(em desenvolvimento)*.
 
 ---
